@@ -1,0 +1,8 @@
+README.md
+setup.cfg
+setup.py
+yolov4.egg-info/PKG-INFO
+yolov4.egg-info/SOURCES.txt
+yolov4.egg-info/dependency_links.txt
+yolov4.egg-info/not-zip-safe
+yolov4.egg-info/top_level.txt

@@ -1,0 +1,13 @@
+Metadata-Version: 1.2
+Name: yolov4
+Version: 1.0
+Summary: Yolov4 Module
+Home-page: https://github.com/KChanwoo/ABR-image-processor.git
+Author: Chanwoo Gwon
+Author-email: arknell@yonsei.ac.kr
+License: UNKNOWN
+Description: UNKNOWN
+Keywords: ai,yolov4
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3.6
+Requires-Python: >=3
