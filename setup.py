@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name             = 'yolov4',
-    version          = '1.0',
+    version          = '1.1',
     description      = 'Yolov4 Module',
     author           = 'Chanwoo Gwon',
     author_email     = 'arknell@yonsei.ac.kr',

@@ -6,3 +6,5 @@ yolov4.egg-info/SOURCES.txt
 yolov4.egg-info/dependency_links.txt
 yolov4.egg-info/not-zip-safe
 yolov4.egg-info/top_level.txt
+yolov4_module/__init__.py
+yolov4_module/builder.py
